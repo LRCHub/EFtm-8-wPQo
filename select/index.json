@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "左手に咲いたリング feat. Noa",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-01-06T16:38:38.536668Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "左手に咲いたリング feat. Noa",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/01_左手に咲いたリング_feat._Noa_LGYankees.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "左手に咲いたリング",
+      "artist": "LGYankees&NOA",
+      "has_synced": false,
+      "path": "select/pl_01_左手に咲いたリング_LGYankees&NOA.txt"
+    }
+  ]
+}
