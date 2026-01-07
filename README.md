@@ -1,4 +1,4 @@
-# LGYankees – 左手に咲いたリング feat. Noa
+# LGYankees – 左手に咲いたリング feat. Noa（feat. Noa）
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
